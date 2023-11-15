@@ -1,2 +1,0 @@
-# Projeto-TETRIS
-Primeiro projetinho
